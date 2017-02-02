@@ -1,0 +1,23 @@
+{
+  "name": "image-search",
+  "version": "1.0.0",
+  "description": "FreeCodeCamp image search project implmentation",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodejs index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anischyros/image-search.git"
+  },
+  "author": "Bob Sutton",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anischyros/image-search/issues"
+  },
+  "homepage": "https://github.com/anischyros/image-search#readme",
+  "dependencies": {
+    "express": "^4.14.1",
+    "mongo": "^0.1.0"
+  }
+}
